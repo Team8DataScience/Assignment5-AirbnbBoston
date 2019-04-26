@@ -4,6 +4,8 @@ Predicting the price of room based on the number of beds, bathroom, bedroom and 
 Also predicting the price with surge price.
 
 
-Claat Doc: http://tiny.cc/airbnbpricing
+project proposal Doc: http://tiny.cc/airbnbpricing
+
+Project Report: https://bit.ly/2GDXJ91
 
 Data collected from : http://insideairbnb.com
