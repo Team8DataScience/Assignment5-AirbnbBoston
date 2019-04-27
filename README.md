@@ -33,3 +33,5 @@ project proposal Doc: http://tiny.cc/airbnbpricing
 Project Report: https://bit.ly/2GDXJ91
 
 Data collected from : http://insideairbnb.com/boston
+
+Heroku app - https://bostonairbnbpriceprediction.herokuapp.com/
